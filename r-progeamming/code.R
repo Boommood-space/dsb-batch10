@@ -1,3 +1,3 @@
-hello <- Function(){
+hello <- function(){
   print("hello world")
   )
