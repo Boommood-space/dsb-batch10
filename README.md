@@ -8,3 +8,9 @@ My data science and analytics projects
 3. R programming - PAO YING CHUB 
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret 
+
+## Contact Me
+reach out to me at Wanchat.cyw@gamil.com
+
+## Image
+![Deadpool](https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg)
